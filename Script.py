@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """<b>✯ My Nᴀᴍᴇ : {}
-✯ Oᴡɴᴇʀ : <a href=https://t.me/NivasMoviesOnlineAdda>𝗡𝗶𝘃𝗮𝘀</a>
+✯ Oᴡɴᴇʀ : <a href=https://t.me/King_suriya12>𝗦𝗨𝗥𝗬𝗔 𝗥𝗔𝗦𝗜𝗚𝗔𝗡</a>
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/Gowthaman2008>Gᴏᴡᴛʜᴀᴍᴀɴ</a>
 ✯ Lɪʙʀᴀʀy : Pʀᴏɢʀᴀᴍ
 ✯ Lᴀɴɢᴜᴀɢᴇ : Pyᴛʜᴏɴ 3
