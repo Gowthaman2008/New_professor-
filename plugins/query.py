@@ -599,10 +599,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙵𝙾𝙽𝚃 📝', callback_data='fond'),
            InlineKeyboardButton('𝚈𝚃-𝙳𝙻 🔰', callback_data='ytdl')
             ],[
-            InlineKeyboardButton('❣️ 𝙰𝙳𝙼𝙸𝙽 𝙿𝙰𝙽𝙴𝙻 ❣️', callback_data='admin')
+            InlineKeyboardButton('❣️ Aᴅᴍɪɴ Pᴀɴᴇʟ ❣️', callback_data='admin')
             ],[
-            InlineKeyboardButton('📊 𝚂𝚃𝙰𝚃𝚄𝚂 📊', callback_data='stats'),
-            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')  
+            InlineKeyboardButton('📊 Sᴛᴀᴛᴜꜱ 📊', callback_data='stats'),
+            InlineKeyboardButton('🏠 Hᴏᴍᴇ 🏠', callback_data='start')  
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)             
         await query.edit_message_media(  
@@ -611,9 +611,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('💙 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 💙', callback_data='source')
+            InlineKeyboardButton('💙 Dᴇᴠᴇʟᴏᴩᴇʀ 💙', callback_data='source')
             ],[
-            InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start')
+            InlineKeyboardButton('🏠 Hᴏᴍᴇ 🏠', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)        
         await query.edit_message_media(
@@ -622,12 +622,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('🎭 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 🎭', url='https://t.me/Gowthaman2008')
+            InlineKeyboardButton('🎭 Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴩᴇʀ 🎭', url='https://t.me/Gowthaman2008')
             ],[
             InlineKeyboardButton('🍁 Gᴍ Bᴏᴛᴢᴢ™ 🍁', url='https://t.me/GM_Botzz')
             ],[
-            InlineKeyboardButton('👩‍🦯 𝙱𝙰𝙲𝙺', callback_data='about'),
-            InlineKeyboardButton('⚡ 𝙳𝙾𝙽𝙰𝚃𝙴 ⚡', url='https://paytm.me/A-3pR8p')
+            InlineKeyboardButton('👩‍🦯 Bᴀᴄᴋ', callback_data='about'),
+            InlineKeyboardButton('⚡ Dᴏɴᴀᴛᴇ ⚡', url='https://paytm.me/A-3pR8p')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
@@ -636,7 +636,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "restric":
         buttons = [[
-            InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
+            InlineKeyboardButton('Bᴀᴄᴋ', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
