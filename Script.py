@@ -13,15 +13,15 @@ class script(object):
 ⚡ Pᴏᴡᴇʀᴇᴅ By ›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
 
     SOURCE_TXT = """
-<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a>
+<b>👨‍💻Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/Gowthaman2008>Gᴏᴡᴛʜᴀᴍᴀɴ⚡</a>
 
-📍𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽𝚈 𝙱𝙾𝚃
-📍𝚃𝙾 𝙱𝚄𝚈 𝚁𝙴𝙿𝙾
-📍𝚃𝙾 𝙱𝚄𝚈 𝙳𝙱
-📍𝙲𝙷𝙴𝙰𝙿 𝙿𝚁𝙸𝙲𝙴
-📍𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴
+📍Tᴏ Mᴀᴋᴇ Aɴy Bᴏᴛ
+📍Tᴏ Bᴜy Rᴇᴩᴏ
+📍Tᴏ Bᴜy Dᴀᴛᴀʙᴀꜱᴇ
+📍Cʜᴇᴀᴩ Pʀɪᴄᴇ
+📍Cᴏɴᴛᴀᴄᴛ Mᴇ
 
-⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>
+⚡Pᴏᴡᴇʀᴇᴅ By›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>
   </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
