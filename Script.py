@@ -1,16 +1,16 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/NivasMoviesOnlineAdda>𝗡𝗶𝘃𝗮𝘀</a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Gowthaman2008>𝙶𝙾𝚆𝚃𝙷𝙰𝙼𝙰𝙽</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝚟3.0.0
+    ABOUT_TXT = """<b>✯ My Nᴀᴍᴇ : {}
+✯ Oᴡɴᴇʀ : <a href=https://t.me/NivasMoviesOnlineAdda>𝗡𝗶𝘃𝗮𝘀</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/Gowthaman2008>Gᴏᴡᴛʜᴀᴍᴀɴ</a>
+✯ Lɪʙʀᴀʀy : Pʀᴏɢʀᴀᴍ
+✯ Lᴀɴɢᴜᴀɢᴇ : Pyᴛʜᴏɴ 3
+✯ Dᴀᴛᴀ Bᴀꜱᴇ : Mᴀɴɢᴏ DB
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ : Rᴇɴᴅᴇʀ
+✯ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ : ᴠ3.0.0
 
-⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
+⚡ Pᴏᴡᴇʀᴇᴅ By ›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
 
     SOURCE_TXT = """
 <b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a>
