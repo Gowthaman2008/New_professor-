@@ -42,13 +42,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/request_tamil_movies")
+            InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/ABUMOVIEC'), 
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/abumovierq")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
             ],[
-            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/movies_tamizhaass')
+            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/ABUMOVIEC')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
@@ -72,13 +72,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/request_tamil_movies")
+            InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/ABUMOVIEC'), 
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/abumovierq")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
             ],[
-            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/movies_tamizhaass')
+            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/ABUMOVIEC')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
