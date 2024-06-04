@@ -528,13 +528,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/ABUMOVIEC'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/abumovierq")
+            InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/request_tamil_movies")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
             ],[
-            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/ABUMOVIEC')
+            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/movies_tamizhaass')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
